@@ -1,4 +1,4 @@
-# Snake Clone
+# Breakout Clone
 
 Created as a learning exercise, Breakout Clone is a small one-man project developped by Louis Corbel. 
 
